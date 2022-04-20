@@ -1,0 +1,3 @@
+[submodule "sugaku-buraku"]
+	path = sugaku-buraku
+	url = git@github.com:LatitudeHigh/sugaku-buraku.git
