@@ -4,3 +4,6 @@
 [submodule "math-card-bop"]
 	path = math-card-bop
 	url = git@github.com:LatitudeHigh/math-card-bop.git
+[submodule "math-asteroids"]
+  path = math-asteroids
+  url = git@github.com:LatitudeHigh/mathle.git
