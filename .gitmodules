@@ -1,45 +1,39 @@
-[submodule "sugaku-buraku"]
-	path = sugaku-buraku
-	url = git@github.com:LatitudeHigh/sugaku-buraku.git
-[submodule "math-card-bop"]
-	path = math-card-bop
-	url = git@github.com:LatitudeHigh/math-card-bop.git
 [submodule "math-asteroids"]
-  path = math-asteroids
-  url = git@github.com:LatitudeHigh/math-asteroids.git
+	path = math-asteroids
+	url = git@github.com:LatitudeHigh/math-asteroids.git
 [submodule "matematicas"]
-  path = matematicas
-  url = git@github.com:LatitudeHigh/matematicas.git
+	path = matematicas
+	url = git@github.com:LatitudeHigh/matematicas.git
 [submodule "balloon-pop"]
-  path = balloon-pop
-  url = git@github.com:LatitudeHigh/balloon-pop.git
+	path = balloon-pop
+	url = git@github.com:LatitudeHigh/balloon-pop.git
 [submodule "keenan-nassir-factory-shop"]
-  path = keenan-nassir-factory-shop
-  url = git@github.com:LatitudeHigh/keenan-nassir-factory-shop.git
+	path = keenan-nassir-factory-shop
+	url = git@github.com:LatitudeHigh/keenan-nassir-factory-shop.git
 [submodule "tomato-copter"]
-  path = tomato-copter
-  url = git@github.com:LatitudeHigh/tomato-copter.git
+	path = tomato-copter
+	url = git@github.com:LatitudeHigh/tomato-copter.git
 [submodule "connect-four-1"]
-  path = connect-four-1
-  url = git@github.com:LatitudeHigh/connect-four-1.git
+	path = connect-four-1
+	url = git@github.com:LatitudeHigh/connect-four-1.git
 [submodule "math-pong"]
-  path = math-pong
-  url = git@github.com:LatitudeHigh/math-pong.git
+	path = math-pong
+	url = git@github.com:LatitudeHigh/math-pong.git
 [submodule "wrong-turn"]
-  path = wrong-turn
-  url = git@github.com:LatitudeHigh/wrong-turn.git
+	path = wrong-turn
+	url = git@github.com:LatitudeHigh/wrong-turn.git
 [submodule "math-clicker"]
-  path = math-clicker
-  url = git@github.com:LatitudeHigh/math-clicker.git
+	path = math-clicker
+	url = git@github.com:LatitudeHigh/math-clicker.git
 [submodule "math-run"]
-  path = math-run
-  url = git@github.com:LatitudeHigh/math-run.git
+	path = math-run
+	url = git@github.com:LatitudeHigh/math-run.git
 [submodule "monkey-math"]
-  path = monkey-math
-  url = git@github.com:LatitudeHigh/monkey-math.git
+	path = monkey-math
+	url = git@github.com:LatitudeHigh/monkey-math.git
 [submodule "extra-terrestrial-math"]
-  path = extra-terrestrial-math
-  url = git@github.com:LatitudeHigh/extra-terrestrial-math.git
+	path = extra-terrestrial-math
+	url = git@github.com:LatitudeHigh/extra-terrestrial-math.git
 [submodule "mathle"]
-  path = mathle
-  url = git@github.com:LatitudeHigh/mathle.git
+	path = mathle
+	url = git@github.com:LatitudeHigh/mathle.git
