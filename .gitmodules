@@ -37,3 +37,9 @@
 [submodule "mathle"]
 	path = mathle
 	url = git@github.com:LatitudeHigh/mathle.git
+[submodule "math-card-bop"]
+	path = math-card-bop
+	url = git@github.com:LatitudeHigh/math-card-bop.git
+[submodule "sugaku-buraku"]
+	path = sugaku-buraku
+	url = git@github.com:LatitudeHigh/sugaku-buraku.git
