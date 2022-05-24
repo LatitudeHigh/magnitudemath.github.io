@@ -43,3 +43,6 @@
 [submodule "mathle"]
   path = mathle
   url = git@github.com:LatitudeHigh/mathle.git
+[submodule "math-bingo"]
+  path = math-bingo
+  url = git@github.com:LatitudeHigh/math-bingo.git
