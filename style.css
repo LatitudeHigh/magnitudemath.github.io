@@ -242,6 +242,11 @@ a:hover{
   text-decoration: underline;
 }
 
+iframe {
+    margin: 20 auto;
+    display:  block;
+}
+
 
 #cf {
   position:relative;
