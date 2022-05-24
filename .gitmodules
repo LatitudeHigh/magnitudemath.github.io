@@ -43,3 +43,24 @@
 [submodule "sugaku-buraku"]
 	path = sugaku-buraku
 	url = git@github.com:LatitudeHigh/sugaku-buraku.git
+[submodule "fraction-bird"]
+	path = fraction-bird
+	url = git@github.com:LatitudeHigh/fraction-bird.git
+[submodule "connect-4"]
+	path = connect-4
+	url = git@github.com:LatitudeHigh/connect-4.git
+[submodule "dice-101"]
+	path = dice-101
+	url = git@github.com:LatitudeHigh/dice-101.git
+[submodule "dangan-burokku"]
+	path = dangan-burokku
+	url = git@github.com:LatitudeHigh/dangan-burokku.git
+[submodule "connect-math"]
+	path = connect-math
+	url = git@github.com:LatitudeHigh/connect-math.git
+[submodule "math-bingo"]
+	path = math-bingo
+	url = git@github.com:LatitudeHigh/math-bingo.git
+[submodule "math-run-cat"]
+	path = math-run-cat
+	url = git@github.com:LatitudeHigh/math-run-cat.git
