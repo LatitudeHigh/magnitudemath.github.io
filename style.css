@@ -267,3 +267,8 @@ iframe {
 #cf img.top:hover {
   opacity:0;
 }
+
+iframe{
+  display: block;
+  align:center;
+}
