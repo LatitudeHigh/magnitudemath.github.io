@@ -271,4 +271,5 @@ iframe {
 iframe{
   display: block;
   align:center;
+  border: 3px solid white;
 }
