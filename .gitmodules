@@ -64,3 +64,6 @@
 [submodule "math-run-cat"]
 	path = math-run-cat
 	url = git@github.com:LatitudeHigh/math-run-cat.git
+[submodule "math-race"]
+	path = math-race
+	url = git@github.com:LatitudeHigh/math-race.git
